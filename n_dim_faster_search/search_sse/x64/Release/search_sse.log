@@ -1,0 +1,14 @@
+﻿  main.cpp
+e:\work_space\source_code\practise\search\search_sse\normal_search.h(79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work_space\source_code\practise\search\search_sse\normal_search.h(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\work_space\source_code\practise\search\search_sse\normal_search.h(110): warning C4018: “<”: 有符号/无符号不匹配
+e:\work_space\source_code\practise\search\search_sse\normal_search.h(172): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+main.cpp(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(101): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+main.cpp(131): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+e:\work_space\source_code\practise\search\search_sse\sse_neon_search.h(58): warning C4752: 发现 Intel(R) 高级矢量扩展；请考虑使用 /arch:AVX
+  All 473 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  search_sse.vcxproj -> E:\work_space\source_code\practise\search\x64\Release\search_sse.exe
+  search_sse.vcxproj -> E:\work_space\source_code\practise\search\x64\Release\search_sse.pdb (Full PDB)
